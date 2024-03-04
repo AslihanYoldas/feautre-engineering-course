@@ -7,7 +7,7 @@
 4. Feature Extraction
 
 -----
-### [Outliers](/Feature-Engineering/handle_outliers.ipynb)
+### [Outliers](/handle_outliers.ipynb)
 -  Lecture 1
     - Determine threshold
     - Find the outliers
@@ -23,7 +23,7 @@
 - Lecture 6
     - Multivariate Outlier Analysis : Local Outlier Factor
 
-### [Missing Values](/Feature-Engineering/missing_values.ipynb)
+### [Missing Values](/missing_values.ipynb)
 -  Lecture 1
     - Capturing the missing values
 -  Lecture 2
@@ -38,7 +38,7 @@
     - Advanced anlaytics apporaches you may need 
     - Examining the missing data structure, if it is dependent or not, randomness of missing data
 
-### [Encoding ](/Feature-Engineering/encoding.ipynb)
+### [Encoding ](/encoding.ipynb)
 -  Lecture 1
     - Label Encoding & Binary Encoding
 -  Lecture 2
